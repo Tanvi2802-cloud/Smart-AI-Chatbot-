@@ -54,4 +54,8 @@ bye
         break
 
     else:
+<<<<<<< HEAD
         print("Bot: Sorry, I don't understand that command.")
+=======
+        print("Bot: Sorry, I don't understand that command.")
+>>>>>>> 4f52e86c8e6f050ca1341a0d68a82fbd4686dfcc
